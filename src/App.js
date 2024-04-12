@@ -11,6 +11,7 @@ import UserForm from './components/UserForm'; // Import UserForm component
 
 function App() {
   //this is the main entry point
+  //this is the main entry point fix
   const [names, setNames] = useState(['Alice', 'Bob', 'Charlie']);
   const [count, setCount] = useState(0); // Use useState for count
 
